@@ -1,2 +1,2 @@
 # heranca_java_projeto1
-Repositório Local
+Projeto sobre Herança em Java para veículos
